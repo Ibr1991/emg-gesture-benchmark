@@ -1,0 +1,301 @@
+Dataset,Model,Input Gesture,Latency (ms),RAM (KB),Energy (mJ),Predicted Gesture
+Dataset 1,Tsetlin Machine,Up,0.131442918,0.859375,0.45694469,Up
+Dataset 1,Tsetlin Machine,Down,0.134227947,0.859375,0.455887583,Down
+Dataset 1,Tsetlin Machine,Left,0.160388016,0.859375,0.562467683,Left
+Dataset 1,Tsetlin Machine,Right,0.129148441,0.859375,0.457356639,Right
+Dataset 1,Tsetlin Machine,Index Point,0.13755896,0.859375,0.492934473,Index Point
+Dataset 1,Tsetlin Machine,Two Finger Pinch,0.131442918,0.859375,0.45694469,Two Finger Pinch
+Dataset 1,Tsetlin Machine,Power Grasp,0.134227947,0.859375,0.455887583,Power Grasp
+Dataset 1,Tsetlin Machine,Middle Finger Pinch,0.160388016,0.859375,0.562467683,Middle Finger Pinch
+Dataset 1,Tsetlin Machine,Splay,0.129148441,0.859375,0.457356639,Splay
+Dataset 1,Tsetlin Machine,Index Finger Pinch,0.13755896,0.859375,0.492934473,Index Finger Pinch
+Dataset 1,Random Forest,Up,1.871780931,0.69921875,6.607108072,Up
+Dataset 1,Random Forest,Down,2.016409202,0.69921875,7.140760898,Down
+Dataset 1,Random Forest,Left,1.849874318,0.69921875,6.536855162,Left
+Dataset 1,Random Forest,Right,1.859476033,0.69921875,6.61347231,Right
+Dataset 1,Random Forest,Index Point,1.959695462,0.69921875,6.924927425,Index Point
+Dataset 1,Random Forest,Two Finger Pinch,1.871780931,0.69921875,6.607108072,Two Finger Pinch
+Dataset 1,Random Forest,Power Grasp,2.016409202,0.69921875,7.140760898,Power Grasp
+Dataset 1,Random Forest,Middle Finger Pinch,1.849874318,0.69921875,6.536855162,Middle Finger Pinch
+Dataset 1,Random Forest,Splay,1.859476033,0.69921875,6.61347231,Splay
+Dataset 1,Random Forest,Index Finger Pinch,1.959695462,0.69921875,6.924927425,Index Finger Pinch
+Dataset 1,1D CNN,Up,0.029563157,1.8203125,0.13667252,Up
+Dataset 1,1D CNN,Down,0.028070692,1.8203125,0.100159552,Down
+Dataset 1,1D CNN,Left,0.030076456,1.8203125,0.135696511,Left
+Dataset 1,1D CNN,Right,0.03040514,1.8203125,0.135973612,Right
+Dataset 1,1D CNN,Index Point,0.032128598,1.8203125,0.134309505,Index Point
+Dataset 1,1D CNN,Two Finger Pinch,0.029563157,1.8203125,0.13667252,Two Finger Pinch
+Dataset 1,1D CNN,Power Grasp,0.028070692,1.8203125,0.100159552,Power Grasp
+Dataset 1,1D CNN,Middle Finger Pinch,0.030076456,1.8203125,0.135696511,Middle Finger Pinch
+Dataset 1,1D CNN,Splay,0.03040514,1.8203125,0.135973612,Splay
+Dataset 1,1D CNN,Index Finger Pinch,0.032128598,1.8203125,0.134309505,Index Finger Pinch
+Dataset 1,MLP,Up,0.017072473,1.4453125,0.065517308,Up
+Dataset 1,MLP,Down,0.017417731,1.4453125,0.065026013,Down
+Dataset 1,MLP,Left,0.01672268,1.4453125,0.064952207,Left
+Dataset 1,MLP,Right,0.016896721,1.4453125,0.065562695,Right
+Dataset 1,MLP,Index Point,0.017207438,1.4453125,0.065170413,Index Point
+Dataset 1,MLP,Two Finger Pinch,0.017072473,1.4453125,0.065517308,Two Finger Pinch
+Dataset 1,MLP,Power Grasp,0.017417731,1.4453125,0.065026013,Power Grasp
+Dataset 1,MLP,Middle Finger Pinch,0.01672268,1.4453125,0.064952207,Middle Finger Pinch
+Dataset 1,MLP,Splay,0.016896721,1.4453125,0.065562695,Splay
+Dataset 1,MLP,Index Finger Pinch,0.017207438,1.4453125,0.065170413,Index Finger Pinch
+Dataset 1,kNN,Up,0.632122675,29.7421875,2.260330829,Up
+Dataset 1,kNN,Down,0.656326207,32.1875,2.291655755,Down
+Dataset 1,kNN,Left,0.542621941,26.0625,1.905004059,Left
+Dataset 1,kNN,Right,0.526632299,22.8828125,1.871021654,Right
+Dataset 1,kNN,Index Point,0.423194395,17.6015625,1.518114077,Index Point
+Dataset 1,kNN,Two Finger Pinch,0.632122675,29.7421875,2.260330829,Two Finger Pinch
+Dataset 1,kNN,Power Grasp,0.656326207,32.1875,2.291655755,Power Grasp
+Dataset 1,kNN,Middle Finger Pinch,0.542621941,26.0625,1.905004059,Middle Finger Pinch
+Dataset 1,kNN,Splay,0.526632299,22.8828125,1.871021654,Splay
+Dataset 1,kNN,Index Finger Pinch,0.423194395,17.6015625,1.518114077,Index Finger Pinch
+Dataset 1,BNN,Up,0.01657829,0.7578125,0.066001111,Up
+Dataset 1,BNN,Down,0.016567311,0.7578125,0.065441982,Down
+Dataset 1,BNN,Left,0.015570783,0.7578125,0.066314351,Left
+Dataset 1,BNN,Right,0.020963366,0.7578125,0.099594412,Right
+Dataset 1,BNN,Index Point,0.015940472,0.7578125,0.066137451,Index Point
+Dataset 1,BNN,Two Finger Pinch,0.01657829,0.7578125,0.066001111,Two Finger Pinch
+Dataset 1,BNN,Power Grasp,0.016567311,0.7578125,0.065441982,Power Grasp
+Dataset 1,BNN,Middle Finger Pinch,0.015570783,0.7578125,0.066314351,Middle Finger Pinch
+Dataset 1,BNN,Splay,0.020963366,0.7578125,0.099594412,Splay
+Dataset 1,BNN,Index Finger Pinch,0.015940472,0.7578125,0.066137451,Index Finger Pinch
+Dataset 2,Tsetlin Machine,Thumb up,0,0,0,Thumb up
+Dataset 2,Tsetlin Machine,Two fingers,0,0,0,Two fingers
+Dataset 2,Tsetlin Machine,Three fingers,0,0,0,Three fingers
+Dataset 2,Tsetlin Machine,Four fingers,0,0,0,Four fingers
+Dataset 2,Tsetlin Machine,Five fingers,0,0,0,Five fingers
+Dataset 2,Tsetlin Machine,Fist,0,0,0,Fist
+Dataset 2,Tsetlin Machine,Pointing index,0,0,0,Pointing index
+Dataset 2,Tsetlin Machine,Adduction fingers,0,0,0,Adduction fingers
+Dataset 2,Tsetlin Machine,Wrist supination_1,0,0,0,Wrist supination_1
+Dataset 2,Tsetlin Machine,Wrist pronation_1,0,0,0,Wrist pronation_1
+Dataset 2,Tsetlin Machine,Wrist supination_2,0,0,0,Wrist supination_2
+Dataset 2,Tsetlin Machine,Wrist pronation_2,0,0,0,Wrist pronation_2
+Dataset 2,Tsetlin Machine,Wrist flexion,0,0,0,Wrist flexion
+Dataset 2,Tsetlin Machine,Wrist Extension,0,0,0,Wrist Extension
+Dataset 2,Tsetlin Machine,Wrist deviation_1,0,0,0,Wrist deviation_1
+Dataset 2,Tsetlin Machine,Wrist deviation_2,0,0,0,Wrist deviation_2
+Dataset 2,Tsetlin Machine,Wrist extension_2,0,0,0,Wrist extension_2
+Dataset 2,Tsetlin Machine,Large grasp,0,0,0,Large grasp
+Dataset 2,Tsetlin Machine,Small grasp,0,0,0,Small grasp
+Dataset 2,Tsetlin Machine,Hook grasp,0,0,0,Hook grasp
+Dataset 2,Tsetlin Machine,Index finger grasp,0,0,0,Index finger grasp
+Dataset 2,Tsetlin Machine,Medium wrap,0,0,0,Medium wrap
+Dataset 2,Tsetlin Machine,Ring grasp,0,0,0,Ring grasp
+Dataset 2,Tsetlin Machine,Four fingers grasp,0,0,0,Four fingers grasp
+Dataset 2,Tsetlin Machine,Stick grasp,0,0,0,Stick grasp
+Dataset 2,Tsetlin Machine,Writing grasp,0,0,0,Writing grasp
+Dataset 2,Tsetlin Machine,Power sphere,0,0,0,Power sphere
+Dataset 2,Tsetlin Machine,Three fingers grasp,0,0,0,Three fingers grasp
+Dataset 2,Tsetlin Machine,Precision grasp,0,0,0,Precision grasp
+Dataset 2,Tsetlin Machine,Tripod grasp,0,0,0,Tripod grasp
+Dataset 2,Tsetlin Machine,Prismatic grasp,0,0,0,Prismatic grasp
+Dataset 2,Tsetlin Machine,Tip grasp,0,0,0,Tip grasp
+Dataset 2,Tsetlin Machine,Quadpod grasp,0,0,0,Quadpod grasp
+Dataset 2,Tsetlin Machine,Lateral grasp,0,0,0,Lateral grasp
+Dataset 2,Tsetlin Machine,extension grasp,0,0,0,extension grasp
+Dataset 2,Tsetlin Machine,type grasp,0,0,0,type grasp
+Dataset 2,Tsetlin Machine,disk grasp,0,0,0,disk grasp
+Dataset 2,Tsetlin Machine,Open grasp,0,0,0,Open grasp
+Dataset 2,Tsetlin Machine,Turn a screw,0,0,0,Turn a screw
+Dataset 2,Tsetlin Machine,Cut something,0,0,0,Cut something
+Dataset 2,Random Forest,Thumb up,0,0,0,Thumb up
+Dataset 2,Random Forest,Two fingers,0,0,0,Two fingers
+Dataset 2,Random Forest,Three fingers,0,0,0,Three fingers
+Dataset 2,Random Forest,Four fingers,0,0,0,Four fingers
+Dataset 2,Random Forest,Five fingers,0,0,0,Five fingers
+Dataset 2,Random Forest,Fist,0,0,0,Fist
+Dataset 2,Random Forest,Pointing index,0,0,0,Pointing index
+Dataset 2,Random Forest,Adduction fingers,0,0,0,Adduction fingers
+Dataset 2,Random Forest,Wrist supination_1,0,0,0,Wrist supination_1
+Dataset 2,Random Forest,Wrist pronation_1,0,0,0,Wrist pronation_1
+Dataset 2,Random Forest,Wrist supination_2,0,0,0,Wrist supination_2
+Dataset 2,Random Forest,Wrist pronation_2,0,0,0,Wrist pronation_2
+Dataset 2,Random Forest,Wrist flexion,0,0,0,Wrist flexion
+Dataset 2,Random Forest,Wrist Extension,0,0,0,Wrist Extension
+Dataset 2,Random Forest,Wrist deviation_1,0,0,0,Wrist deviation_1
+Dataset 2,Random Forest,Wrist deviation_2,0,0,0,Wrist deviation_2
+Dataset 2,Random Forest,Wrist extension_2,0,0,0,Wrist extension_2
+Dataset 2,Random Forest,Large grasp,0,0,0,Large grasp
+Dataset 2,Random Forest,Small grasp,0,0,0,Small grasp
+Dataset 2,Random Forest,Hook grasp,0,0,0,Hook grasp
+Dataset 2,Random Forest,Index finger grasp,0,0,0,Index finger grasp
+Dataset 2,Random Forest,Medium wrap,0,0,0,Medium wrap
+Dataset 2,Random Forest,Ring grasp,0,0,0,Ring grasp
+Dataset 2,Random Forest,Four fingers grasp,0,0,0,Four fingers grasp
+Dataset 2,Random Forest,Stick grasp,0,0,0,Stick grasp
+Dataset 2,Random Forest,Writing grasp,0,0,0,Writing grasp
+Dataset 2,Random Forest,Power sphere,0,0,0,Power sphere
+Dataset 2,Random Forest,Three fingers grasp,0,0,0,Three fingers grasp
+Dataset 2,Random Forest,Precision grasp,0,0,0,Precision grasp
+Dataset 2,Random Forest,Tripod grasp,0,0,0,Tripod grasp
+Dataset 2,Random Forest,Prismatic grasp,0,0,0,Prismatic grasp
+Dataset 2,Random Forest,Tip grasp,0,0,0,Tip grasp
+Dataset 2,Random Forest,Quadpod grasp,0,0,0,Quadpod grasp
+Dataset 2,Random Forest,Lateral grasp,0,0,0,Lateral grasp
+Dataset 2,Random Forest,extension grasp,0,0,0,extension grasp
+Dataset 2,Random Forest,type grasp,0,0,0,type grasp
+Dataset 2,Random Forest,disk grasp,0,0,0,disk grasp
+Dataset 2,Random Forest,Open grasp,0,0,0,Open grasp
+Dataset 2,Random Forest,Turn a screw,0,0,0,Turn a screw
+Dataset 2,Random Forest,Cut something,0,0,0,Cut something
+Dataset 2,1D CNN,Thumb up,0,0,0,Thumb up
+Dataset 2,1D CNN,Two fingers,0,0,0,Two fingers
+Dataset 2,1D CNN,Three fingers,0,0,0,Three fingers
+Dataset 2,1D CNN,Four fingers,0,0,0,Four fingers
+Dataset 2,1D CNN,Five fingers,0,0,0,Five fingers
+Dataset 2,1D CNN,Fist,0,0,0,Fist
+Dataset 2,1D CNN,Pointing index,0,0,0,Pointing index
+Dataset 2,1D CNN,Adduction fingers,0,0,0,Adduction fingers
+Dataset 2,1D CNN,Wrist supination_1,0,0,0,Wrist supination_1
+Dataset 2,1D CNN,Wrist pronation_1,0,0,0,Wrist pronation_1
+Dataset 2,1D CNN,Wrist supination_2,0,0,0,Wrist supination_2
+Dataset 2,1D CNN,Wrist pronation_2,0,0,0,Wrist pronation_2
+Dataset 2,1D CNN,Wrist flexion,0,0,0,Wrist flexion
+Dataset 2,1D CNN,Wrist Extension,0,0,0,Wrist Extension
+Dataset 2,1D CNN,Wrist deviation_1,0,0,0,Wrist deviation_1
+Dataset 2,1D CNN,Wrist deviation_2,0,0,0,Wrist deviation_2
+Dataset 2,1D CNN,Wrist extension_2,0,0,0,Wrist extension_2
+Dataset 2,1D CNN,Large grasp,0,0,0,Large grasp
+Dataset 2,1D CNN,Small grasp,0,0,0,Small grasp
+Dataset 2,1D CNN,Hook grasp,0,0,0,Hook grasp
+Dataset 2,1D CNN,Index finger grasp,0,0,0,Index finger grasp
+Dataset 2,1D CNN,Medium wrap,0,0,0,Medium wrap
+Dataset 2,1D CNN,Ring grasp,0,0,0,Ring grasp
+Dataset 2,1D CNN,Four fingers grasp,0,0,0,Four fingers grasp
+Dataset 2,1D CNN,Stick grasp,0,0,0,Stick grasp
+Dataset 2,1D CNN,Writing grasp,0,0,0,Writing grasp
+Dataset 2,1D CNN,Power sphere,0,0,0,Power sphere
+Dataset 2,1D CNN,Three fingers grasp,0,0,0,Three fingers grasp
+Dataset 2,1D CNN,Precision grasp,0,0,0,Precision grasp
+Dataset 2,1D CNN,Tripod grasp,0,0,0,Tripod grasp
+Dataset 2,1D CNN,Prismatic grasp,0,0,0,Prismatic grasp
+Dataset 2,1D CNN,Tip grasp,0,0,0,Tip grasp
+Dataset 2,1D CNN,Quadpod grasp,0,0,0,Quadpod grasp
+Dataset 2,1D CNN,Lateral grasp,0,0,0,Lateral grasp
+Dataset 2,1D CNN,extension grasp,0,0,0,extension grasp
+Dataset 2,1D CNN,type grasp,0,0,0,type grasp
+Dataset 2,1D CNN,disk grasp,0,0,0,disk grasp
+Dataset 2,1D CNN,Open grasp,0,0,0,Open grasp
+Dataset 2,1D CNN,Turn a screw,0,0,0,Turn a screw
+Dataset 2,1D CNN,Cut something,0,0,0,Cut something
+Dataset 2,MLP,Thumb up,0,0,0,Thumb up
+Dataset 2,MLP,Two fingers,0,0,0,Two fingers
+Dataset 2,MLP,Three fingers,0,0,0,Three fingers
+Dataset 2,MLP,Four fingers,0,0,0,Four fingers
+Dataset 2,MLP,Five fingers,0,0,0,Five fingers
+Dataset 2,MLP,Fist,0,0,0,Fist
+Dataset 2,MLP,Pointing index,0,0,0,Pointing index
+Dataset 2,MLP,Adduction fingers,0,0,0,Adduction fingers
+Dataset 2,MLP,Wrist supination_1,0,0,0,Wrist supination_1
+Dataset 2,MLP,Wrist pronation_1,0,0,0,Wrist pronation_1
+Dataset 2,MLP,Wrist supination_2,0,0,0,Wrist supination_2
+Dataset 2,MLP,Wrist pronation_2,0,0,0,Wrist pronation_2
+Dataset 2,MLP,Wrist flexion,0,0,0,Wrist flexion
+Dataset 2,MLP,Wrist Extension,0,0,0,Wrist Extension
+Dataset 2,MLP,Wrist deviation_1,0,0,0,Wrist deviation_1
+Dataset 2,MLP,Wrist deviation_2,0,0,0,Wrist deviation_2
+Dataset 2,MLP,Wrist extension_2,0,0,0,Wrist extension_2
+Dataset 2,MLP,Large grasp,0,0,0,Large grasp
+Dataset 2,MLP,Small grasp,0,0,0,Small grasp
+Dataset 2,MLP,Hook grasp,0,0,0,Hook grasp
+Dataset 2,MLP,Index finger grasp,0,0,0,Index finger grasp
+Dataset 2,MLP,Medium wrap,0,0,0,Medium wrap
+Dataset 2,MLP,Ring grasp,0,0,0,Ring grasp
+Dataset 2,MLP,Four fingers grasp,0,0,0,Four fingers grasp
+Dataset 2,MLP,Stick grasp,0,0,0,Stick grasp
+Dataset 2,MLP,Writing grasp,0,0,0,Writing grasp
+Dataset 2,MLP,Power sphere,0,0,0,Power sphere
+Dataset 2,MLP,Three fingers grasp,0,0,0,Three fingers grasp
+Dataset 2,MLP,Precision grasp,0,0,0,Precision grasp
+Dataset 2,MLP,Tripod grasp,0,0,0,Tripod grasp
+Dataset 2,MLP,Prismatic grasp,0,0,0,Prismatic grasp
+Dataset 2,MLP,Tip grasp,0,0,0,Tip grasp
+Dataset 2,MLP,Quadpod grasp,0,0,0,Quadpod grasp
+Dataset 2,MLP,Lateral grasp,0,0,0,Lateral grasp
+Dataset 2,MLP,extension grasp,0,0,0,extension grasp
+Dataset 2,MLP,type grasp,0,0,0,type grasp
+Dataset 2,MLP,disk grasp,0,0,0,disk grasp
+Dataset 2,MLP,Open grasp,0,0,0,Open grasp
+Dataset 2,MLP,Turn a screw,0,0,0,Turn a screw
+Dataset 2,MLP,Cut something,0,0,0,Cut something
+Dataset 2,kNN,Thumb up,0,0,0,Thumb up
+Dataset 2,kNN,Two fingers,0,0,0,Two fingers
+Dataset 2,kNN,Three fingers,0,0,0,Three fingers
+Dataset 2,kNN,Four fingers,0,0,0,Four fingers
+Dataset 2,kNN,Five fingers,0,0,0,Five fingers
+Dataset 2,kNN,Fist,0,0,0,Fist
+Dataset 2,kNN,Pointing index,0,0,0,Pointing index
+Dataset 2,kNN,Adduction fingers,0,0,0,Adduction fingers
+Dataset 2,kNN,Wrist supination_1,0,0,0,Wrist supination_1
+Dataset 2,kNN,Wrist pronation_1,0,0,0,Wrist pronation_1
+Dataset 2,kNN,Wrist supination_2,0,0,0,Wrist supination_2
+Dataset 2,kNN,Wrist pronation_2,0,0,0,Wrist pronation_2
+Dataset 2,kNN,Wrist flexion,0,0,0,Wrist flexion
+Dataset 2,kNN,Wrist Extension,0,0,0,Wrist Extension
+Dataset 2,kNN,Wrist deviation_1,0,0,0,Wrist deviation_1
+Dataset 2,kNN,Wrist deviation_2,0,0,0,Wrist deviation_2
+Dataset 2,kNN,Wrist extension_2,0,0,0,Wrist extension_2
+Dataset 2,kNN,Large grasp,0,0,0,Large grasp
+Dataset 2,kNN,Small grasp,0,0,0,Small grasp
+Dataset 2,kNN,Hook grasp,0,0,0,Hook grasp
+Dataset 2,kNN,Index finger grasp,0,0,0,Index finger grasp
+Dataset 2,kNN,Medium wrap,0,0,0,Medium wrap
+Dataset 2,kNN,Ring grasp,0,0,0,Ring grasp
+Dataset 2,kNN,Four fingers grasp,0,0,0,Four fingers grasp
+Dataset 2,kNN,Stick grasp,0,0,0,Stick grasp
+Dataset 2,kNN,Writing grasp,0,0,0,Writing grasp
+Dataset 2,kNN,Power sphere,0,0,0,Power sphere
+Dataset 2,kNN,Three fingers grasp,0,0,0,Three fingers grasp
+Dataset 2,kNN,Precision grasp,0,0,0,Precision grasp
+Dataset 2,kNN,Tripod grasp,0,0,0,Tripod grasp
+Dataset 2,kNN,Prismatic grasp,0,0,0,Prismatic grasp
+Dataset 2,kNN,Tip grasp,0,0,0,Tip grasp
+Dataset 2,kNN,Quadpod grasp,0,0,0,Quadpod grasp
+Dataset 2,kNN,Lateral grasp,0,0,0,Lateral grasp
+Dataset 2,kNN,extension grasp,0,0,0,extension grasp
+Dataset 2,kNN,type grasp,0,0,0,type grasp
+Dataset 2,kNN,disk grasp,0,0,0,disk grasp
+Dataset 2,kNN,Open grasp,0,0,0,Open grasp
+Dataset 2,kNN,Turn a screw,0,0,0,Turn a screw
+Dataset 2,kNN,Cut something,0,0,0,Cut something
+Dataset 2,BNN,Thumb up,0,0,0,Thumb up
+Dataset 2,BNN,Two fingers,0,0,0,Two fingers
+Dataset 2,BNN,Three fingers,0,0,0,Three fingers
+Dataset 2,BNN,Four fingers,0,0,0,Four fingers
+Dataset 2,BNN,Five fingers,0,0,0,Five fingers
+Dataset 2,BNN,Fist,0,0,0,Fist
+Dataset 2,BNN,Pointing index,0,0,0,Pointing index
+Dataset 2,BNN,Adduction fingers,0,0,0,Adduction fingers
+Dataset 2,BNN,Wrist supination_1,0,0,0,Wrist supination_1
+Dataset 2,BNN,Wrist pronation_1,0,0,0,Wrist pronation_1
+Dataset 2,BNN,Wrist supination_2,0,0,0,Wrist supination_2
+Dataset 2,BNN,Wrist pronation_2,0,0,0,Wrist pronation_2
+Dataset 2,BNN,Wrist flexion,0,0,0,Wrist flexion
+Dataset 2,BNN,Wrist Extension,0,0,0,Wrist Extension
+Dataset 2,BNN,Wrist deviation_1,0,0,0,Wrist deviation_1
+Dataset 2,BNN,Wrist deviation_2,0,0,0,Wrist deviation_2
+Dataset 2,BNN,Wrist extension_2,0,0,0,Wrist extension_2
+Dataset 2,BNN,Large grasp,0,0,0,Large grasp
+Dataset 2,BNN,Small grasp,0,0,0,Small grasp
+Dataset 2,BNN,Hook grasp,0,0,0,Hook grasp
+Dataset 2,BNN,Index finger grasp,0,0,0,Index finger grasp
+Dataset 2,BNN,Medium wrap,0,0,0,Medium wrap
+Dataset 2,BNN,Ring grasp,0,0,0,Ring grasp
+Dataset 2,BNN,Four fingers grasp,0,0,0,Four fingers grasp
+Dataset 2,BNN,Stick grasp,0,0,0,Stick grasp
+Dataset 2,BNN,Writing grasp,0,0,0,Writing grasp
+Dataset 2,BNN,Power sphere,0,0,0,Power sphere
+Dataset 2,BNN,Three fingers grasp,0,0,0,Three fingers grasp
+Dataset 2,BNN,Precision grasp,0,0,0,Precision grasp
+Dataset 2,BNN,Tripod grasp,0,0,0,Tripod grasp
+Dataset 2,BNN,Prismatic grasp,0,0,0,Prismatic grasp
+Dataset 2,BNN,Tip grasp,0,0,0,Tip grasp
+Dataset 2,BNN,Quadpod grasp,0,0,0,Quadpod grasp
+Dataset 2,BNN,Lateral grasp,0,0,0,Lateral grasp
+Dataset 2,BNN,extension grasp,0,0,0,extension grasp
+Dataset 2,BNN,type grasp,0,0,0,type grasp
+Dataset 2,BNN,disk grasp,0,0,0,disk grasp
+Dataset 2,BNN,Open grasp,0,0,0,Open grasp
+Dataset 2,BNN,Turn a screw,0,0,0,Turn a screw
+Dataset 2,BNN,Cut something,0,0,0,Cut something
