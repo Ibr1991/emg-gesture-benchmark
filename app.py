@@ -162,10 +162,10 @@ if dataset_choice != st.session_state.current_ds:
 model_choice = st.sidebar.selectbox("Choose Algorithm", ["Tsetlin Machine", "Random Forest", "1D CNN", "MLP", "kNN", "BNN"])
 
 if dataset_choice == "Dataset 1":
-    gestures = [("Up", "images/d1/1.png"), ("Down", "images/d1/2.png"), ("Left", "images/d1/3.png"), ("Right", "images/d1/4.png"), ("Index Point", "images/d1/5.png"), ("Two Finger Pinch", "images/d1/6.png"), ("Power Grasp", "images/d1/7.png"), ("Middle Finger Pinch", "images/d1/8.png"), ("Splay", "images/d1/9.png"), ("Index Finger Pinch", "images/d1/10.png")]
+    gestures = [("Up", "images/d1/1.PNG"), ("Down", "images/d1/2.PNG"), ("Left", "images/d1/3.PNG"), ("Right", "images/d1/4.PNG"), ("Index Point", "images/d1/5.PNG"), ("Two Finger Pinch", "images/d1/6.PNG"), ("Power Grasp", "images/d1/7.PNG"), ("Middle Finger Pinch", "images/d1/8.PNG"), ("Splay", "images/d1/9.PNG"), ("Index Finger Pinch", "images/d1/10.PNG")]
 else:
     names = ["Thumb up","Two fingers","Three fingers","Four fingers","Five fingers","Fist","Pointing index","Adduction fingers","Wrist supination_1","Wrist pronation_1","Wrist supination_2","Wrist pronation_2","Wrist flexion","Wrist Extension","Wrist deviation_1","Wrist deviation_2","Wrist extension_2","Large grasp","Small grasp","Hook grasp","Index finger grasp","Medium wrap","Ring grasp","Four fingers grasp","Stick grasp","Writing grasp","Power sphere","Three fingers grasp","Precision grasp","Tripod grasp","Prismatic grasp","Tip grasp","Quadpod grasp","Lateral grasp","extension grasp","type grasp","disk grasp","Open grasp","Turn a screw","Cut something"]
-    gestures = [(n, f"images/d2/{i}.png") for i, n in enumerate(names, 1)]
+    gestures = [(n, f"images/d2/{i}.PNG") for i, n in enumerate(names, 1)]
 
 if st.sidebar.button(f"🗑️ Clear {dataset_choice} & Animation"):
     st.session_state.results_tables[dataset_choice] = pd.DataFrame(
