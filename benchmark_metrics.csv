@@ -1,14 +1,14 @@
 Dataset,Model,Input Gesture,Latency (ms),RAM (KB),Energy (mJ),Predicted Gesture
-Dataset 1,Tsetlin Machine,Up,0.131442918,0.859375,0.45694469,Up
-Dataset 1,Tsetlin Machine,Down,0.134227947,0.859375,0.455887583,Down
-Dataset 1,Tsetlin Machine,Left,0.160388016,0.859375,0.562467683,Left
-Dataset 1,Tsetlin Machine,Right,0.129148441,0.859375,0.457356639,Right
-Dataset 1,Tsetlin Machine,Index Point,0.13755896,0.859375,0.492934473,Index Point
-Dataset 1,Tsetlin Machine,Two Finger Pinch,0.131442918,0.859375,0.45694469,Two Finger Pinch
-Dataset 1,Tsetlin Machine,Power Grasp,0.134227947,0.859375,0.455887583,Power Grasp
-Dataset 1,Tsetlin Machine,Middle Finger Pinch,0.160388016,0.859375,0.562467683,Middle Finger Pinch
-Dataset 1,Tsetlin Machine,Splay,0.129148441,0.859375,0.457356639,Splay
-Dataset 1,Tsetlin Machine,Index Finger Pinch,0.13755896,0.859375,0.492934473,Index Finger Pinch
+Dataset 1,Tsetlin Machine,Up,0.014214171049085667,0.859375,0.05933744898047305,Up
+Dataset 1,Tsetlin Machine,Down,0.014086336659978809,0.859375,0.05625994297735133,Down
+Dataset 1,Tsetlin Machine,Left,0.014010974182683423,0.859375,0.06086520022406135,Left
+Dataset 1,Tsetlin Machine,Right,0.0141703852438483,0.859375,0.05705220860654731,Right
+Dataset 1,Tsetlin Machine,Index Point,0.014633646704780897,0.859375,0.05885352191460644,Index Point
+Dataset 1,Tsetlin Machine,Two Finger Pinch,0.013934658263650087,0.859375,0.05532091348061017,Two Finger Pinch
+Dataset 1,Tsetlin Machine,Power Grasp,0.014660116630393719,0.859375,0.05793560395289228,Power Grasp
+Dataset 1,Tsetlin Machine,Middle Finger Pinch,0.013410954070466998,0.859375,0.05774816894429564,Middle Finger Pinch
+Dataset 1,Tsetlin Machine,Splay,0.013730682119302472,0.859375,0.059102778988053724,Splay
+Dataset 1,Tsetlin Machine,Index Finger Pinch,0.013587177653089613,0.859375,0.06019916583466696,Index Finger Pinch
 Dataset 1,Random Forest,Up,1.871780931,0.69921875,6.607108072,Up
 Dataset 1,Random Forest,Down,2.016409202,0.69921875,7.140760898,Down
 Dataset 1,Random Forest,Left,1.849874318,0.69921875,6.536855162,Left
@@ -59,46 +59,46 @@ Dataset 1,BNN,Power Grasp,0.016567311,0.7578125,0.065441982,Power Grasp
 Dataset 1,BNN,Middle Finger Pinch,0.015570783,0.7578125,0.066314351,Middle Finger Pinch
 Dataset 1,BNN,Splay,0.020963366,0.7578125,0.099594412,Splay
 Dataset 1,BNN,Index Finger Pinch,0.015940472,0.7578125,0.066137451,Index Finger Pinch
-Dataset 2,Tsetlin Machine,Thumb up,1.379532084,1.140625,4.874818433,Thumb up
-Dataset 2,Tsetlin Machine,Two fingers,1.431076307,1.140625,5.051486348,Two fingers
-Dataset 2,Tsetlin Machine,Three fingers,1.434265828,1.140625,5.051777697,Three fingers
-Dataset 2,Tsetlin Machine,Four fingers,1.388124599,1.140625,4.910490769,Four fingers
-Dataset 2,Tsetlin Machine,Five fingers,1.441453558,1.140625,5.088116499,Five fingers
-Dataset 2,Tsetlin Machine,Fist,1.379532084,1.140625,4.874818433,Fist
-Dataset 2,Tsetlin Machine,Pointing index,1.431076307,1.140625,5.051486348,Pointing index
-Dataset 2,Tsetlin Machine,Adduction fingers,1.434265828,1.140625,5.051777697,Adduction fingers
-Dataset 2,Tsetlin Machine,Wrist supination_1,1.388124599,1.140625,4.910490769,Wrist supination_1
-Dataset 2,Tsetlin Machine,Wrist pronation_1,1.441453558,1.140625,5.088116499,Wrist pronation_1
-Dataset 2,Tsetlin Machine,Wrist supination_2,1.379532084,1.140625,4.874818433,Wrist supination_2
-Dataset 2,Tsetlin Machine,Wrist pronation_2,1.431076307,1.140625,5.051486348,Wrist pronation_2
-Dataset 2,Tsetlin Machine,Wrist flexion,1.434265828,1.140625,5.051777697,Wrist flexion
-Dataset 2,Tsetlin Machine,Wrist Extension,1.388124599,1.140625,4.910490769,Wrist Extension
-Dataset 2,Tsetlin Machine,Wrist deviation_1,1.441453558,1.140625,5.088116499,Wrist deviation_1
-Dataset 2,Tsetlin Machine,Wrist deviation_2,1.379532084,1.140625,4.874818433,Wrist deviation_2
-Dataset 2,Tsetlin Machine,Wrist extension_2,1.431076307,1.140625,5.051486348,Wrist extension_2
-Dataset 2,Tsetlin Machine,Large grasp,1.434265828,1.140625,5.051777697,Large grasp
-Dataset 2,Tsetlin Machine,Small grasp,1.388124599,1.140625,4.910490769,Small grasp
-Dataset 2,Tsetlin Machine,Hook grasp,1.441453558,1.140625,5.088116499,Hook grasp
-Dataset 2,Tsetlin Machine,Index finger grasp,1.379532084,1.140625,4.874818433,Index finger grasp
-Dataset 2,Tsetlin Machine,Medium wrap,1.431076307,1.140625,5.051486348,Medium wrap
-Dataset 2,Tsetlin Machine,Ring grasp,1.434265828,1.140625,5.051777697,Ring grasp
-Dataset 2,Tsetlin Machine,Four fingers grasp,1.388124599,1.140625,4.910490769,Four fingers grasp
-Dataset 2,Tsetlin Machine,Stick grasp,1.441453558,1.140625,5.088116499,Stick grasp
-Dataset 2,Tsetlin Machine,Writing grasp,1.379532084,1.140625,4.874818433,Writing grasp
-Dataset 2,Tsetlin Machine,Power sphere,1.431076307,1.140625,5.051486348,Power sphere
-Dataset 2,Tsetlin Machine,Three fingers grasp,1.434265828,1.140625,5.051777697,Three fingers grasp
-Dataset 2,Tsetlin Machine,Precision grasp,1.388124599,1.140625,4.910490769,Precision grasp
-Dataset 2,Tsetlin Machine,Tripod grasp,1.441453558,1.140625,5.088116499,Tripod grasp
-Dataset 2,Tsetlin Machine,Prismatic grasp,1.379532084,1.140625,4.874818433,Prismatic grasp
-Dataset 2,Tsetlin Machine,Tip grasp,1.431076307,1.140625,5.051486348,Tip grasp
-Dataset 2,Tsetlin Machine,Quadpod grasp,1.434265828,1.140625,5.051777697,Quadpod grasp
-Dataset 2,Tsetlin Machine,Lateral grasp,1.388124599,1.140625,4.910490769,Lateral grasp
-Dataset 2,Tsetlin Machine,extension grasp,1.441453558,1.140625,5.088116499,extension grasp
-Dataset 2,Tsetlin Machine,type grasp,1.379532084,1.140625,4.874818433,type grasp
-Dataset 2,Tsetlin Machine,disk grasp,1.431076307,1.140625,5.051486348,disk grasp
-Dataset 2,Tsetlin Machine,Open grasp,1.434265828,1.140625,5.051777697,Open grasp
-Dataset 2,Tsetlin Machine,Turn a screw,1.388124599,1.140625,4.910490769,Turn a screw
-Dataset 2,Tsetlin Machine,Cut something,1.441453558,1.140625,5.088116499,Cut something
+Dataset 2,Tsetlin Machine,Thumb up,0.10935866887182437,0.9765625,0.3855928540219372,Thumb up
+Dataset 2,Tsetlin Machine,Two fingers,0.10542270344368844,0.9765625,0.3632668569870242,Two fingers
+Dataset 2,Tsetlin Machine,Three fingers,0.1062042047161267,0.9765625,0.39478500862177685,Three fingers
+Dataset 2,Tsetlin Machine,Four fingers,0.11091022280601803,0.9765625,0.3832965722198723,Four fingers
+Dataset 2,Tsetlin Machine,Five fingers,0.10978809888100899,0.9765625,0.38242773360695403,Five fingers
+Dataset 2,Tsetlin Machine,Fist,0.10696684653353423,0.9765625,0.372207129156616,Fist
+Dataset 2,Tsetlin Machine,Pointing index,0.11063918808189797,0.9765625,0.36177184337007434,Pointing index
+Dataset 2,Tsetlin Machine,Adduction fingers,0.10836954384879133,0.9765625,0.3710310775675863,Adduction fingers
+Dataset 2,Tsetlin Machine,Wrist supination_1,0.10749676061930558,0.9765625,0.390087997132882,Wrist supination_1
+Dataset 2,Tsetlin Machine,Wrist pronation_1,0.10451071149571281,0.9765625,0.37481121826545605,Wrist pronation_1
+Dataset 2,Tsetlin Machine,Wrist supination_2,0.10275966394532902,0.9765625,0.38262864927108153,Wrist supination_2
+Dataset 2,Tsetlin Machine,Wrist pronation_2,0.10470677421628244,0.9765625,0.37045449340172065,Wrist pronation_2
+Dataset 2,Tsetlin Machine,Wrist flexion,0.10102095159314478,0.9765625,0.36499647842656596,Wrist flexion
+Dataset 2,Tsetlin Machine,Wrist Extension,0.0994778539254303,0.9765625,0.3882484397354853,Wrist Extension
+Dataset 2,Tsetlin Machine,Wrist deviation_1,0.10614812921487424,0.9765625,0.3641079373422333,Wrist deviation_1
+Dataset 2,Tsetlin Machine,Wrist deviation_2,0.10742546210605941,0.9765625,0.3775807831944979,Wrist deviation_2
+Dataset 2,Tsetlin Machine,Wrist extension_2,0.11067439051646799,0.9765625,0.3647149532941205,Wrist extension_2
+Dataset 2,Tsetlin Machine,Large grasp,0.10929868306911997,0.9765625,0.389451613505653,Large grasp
+Dataset 2,Tsetlin Machine,Small grasp,0.1020810261412439,0.9765625,0.38886631211252054,Small grasp
+Dataset 2,Tsetlin Machine,Hook grasp,0.10669303120762215,0.9765625,0.3974375848993474,Hook grasp
+Dataset 2,Tsetlin Machine,Index finger grasp,0.10523011854235136,0.9765625,0.3875241981978352,Index finger grasp
+Dataset 2,Tsetlin Machine,Medium wrap,0.10855923659765568,0.9765625,0.38342175536799616,Medium wrap
+Dataset 2,Tsetlin Machine,Ring grasp,0.09935300361488383,0.9765625,0.3943015586716235,Ring grasp
+Dataset 2,Tsetlin Machine,Four fingers grasp,0.1094737179408164,0.9765625,0.3674751508456285,Four fingers grasp
+Dataset 2,Tsetlin Machine,Stick grasp,0.10899279044827484,0.9765625,0.383390796085196,Stick grasp
+Dataset 2,Tsetlin Machine,Writing grasp,0.10284696292987024,0.9765625,0.3587047770804505,Writing grasp
+Dataset 2,Tsetlin Machine,Power sphere,0.10758083488605642,0.9765625,0.3768133398875412,Power sphere
+Dataset 2,Tsetlin Machine,Three fingers grasp,0.11002228968270901,0.9765625,0.3937080119959376,Three fingers grasp
+Dataset 2,Tsetlin Machine,Precision grasp,0.10752434616928963,0.9765625,0.3784250259119261,Precision grasp
+Dataset 2,Tsetlin Machine,Tripod grasp,0.1034659435284162,0.9765625,0.38063787903554175,Tripod grasp
+Dataset 2,Tsetlin Machine,Prismatic grasp,0.10880470372472568,0.9765625,0.3969731291615668,Prismatic grasp
+Dataset 2,Tsetlin Machine,Tip grasp,0.09993011496668801,0.9765625,0.38014403074907993,Tip grasp
+Dataset 2,Tsetlin Machine,Quadpod grasp,0.10046190560451207,0.9765625,0.3794250389245498,Quadpod grasp
+Dataset 2,Tsetlin Machine,Lateral grasp,0.10216550060928459,0.9765625,0.3713817429218789,Lateral grasp
+Dataset 2,Tsetlin Machine,extension grasp,0.09963131063783631,0.9765625,0.37360207780165733,extension grasp
+Dataset 2,Tsetlin Machine,type grasp,0.10026005604766448,0.9765625,0.3671380756515438,type grasp
+Dataset 2,Tsetlin Machine,disk grasp,0.10568986361158425,0.9765625,0.37572409427069964,disk grasp
+Dataset 2,Tsetlin Machine,Open grasp,0.10661176771093685,0.9765625,0.3703505175077022,Open grasp
+Dataset 2,Tsetlin Machine,Turn a screw,0.11002409019795541,0.9765625,0.3830924984419331,Turn a screw
+Dataset 2,Tsetlin Machine,Cut something,0.10230634707738512,0.9765625,0.3593327744409713,Cut something
 Dataset 2,Random Forest,Thumb up,5.400416605,0.8125,19.06266676,Thumb up
 Dataset 2,Random Forest,Two fingers,5.359931348,0.8125,18.91975983,Two fingers
 Dataset 2,Random Forest,Three fingers,5.136649043,0.8125,18.09232889,Three fingers
